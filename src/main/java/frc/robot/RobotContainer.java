@@ -49,7 +49,7 @@ public class RobotContainer {
      * configureButtonBindings
      */
     private void configureButtonBindings() {
-        right_menu.whenPressed(new HomeElevator(this.elevator));
+        // right_menu.whenPressed(new HomeElevator(this.elevator));
         x_button.whenPressed(new ToggleIntake(this.intake));
         a_button.whenPressed(new EjectCube(this.intake));
         y_button.whenPressed(new IntakeOn(this.intake));

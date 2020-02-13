@@ -1,5 +1,7 @@
-Fahrenheit
+# Fahrenheit
 
-## Controls
+This is rolling release post-season code of our 2018 Robot, Fahrenheit.
 
-_coming soon_
+## Links
+
+[https://github.com/cavineers/Fahrenheit/blob/master/CONTROLS.md](Controls)
